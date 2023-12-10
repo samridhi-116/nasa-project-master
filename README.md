@@ -1,6 +1,6 @@
 # NASA Mission Control Project
 
-## Getting Started
+<!-- ## Getting Started
 
 1. Ensure you have Node.js installed.
 2. Create a free [Mongo Atlas](https://www.mongodb.com/atlas/database) database online or start a local MongoDB database.
@@ -10,4 +10,4 @@
 ## Running the Project
 
 1. In the terminal, run: `npm run deploy`
-2. Browse to the mission control frontend at [localhost:8000](http://localhost:8000) and schedule an interstellar launch!
+2. Browse to the mission control frontend at [localhost:8000](http://localhost:8000) and schedule an interstellar launch! -->
